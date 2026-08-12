@@ -4,7 +4,7 @@ import gsap from 'gsap';
 const HERO_VIDEO_DESKTOP =
   'https://res.cloudinary.com/kx53fq3l/video/upload/v1786446805/hero_edited.mp4';
 const HERO_VIDEO_MOBILE =
-  'https://res.cloudinary.com/kx53fq3l/video/upload/f_auto,q_auto:eco/v1786446512/mobile-hero.mp4';
+  'https://res.cloudinary.com/kx53fq3l/video/upload/f_auto,q_auto/v1786446512/mobile-hero.mp4';
 const HERO_POSTER_MOBILE =
   'https://res.cloudinary.com/kx53fq3l/video/upload/f_auto,q_auto,so_0/v1786446512/mobile-hero.jpg';
 
